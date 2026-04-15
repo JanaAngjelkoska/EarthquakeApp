@@ -17,13 +17,13 @@ A Spring Boot REST API that fetches real-time earthquake data from the USGS serv
 
 
 ## Project Structure
-
+```
 src/main/java/org/example/earthquakeapp
 ├── Model
 ├── Repository
 ├── Service
 └── Web
-
+```
 ---
 
 ## ⚙️ Setup Instructions
