@@ -1,0 +1,49 @@
+body {
+    background-color: #f8f9fa;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    color: #2c3e50;
+    font-weight: 600;
+}
+
+.card {
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    border: none;
+}
+
+.table th {
+    background-color: #343a40;
+    color: white;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+
+.mag-high {
+    color: #dc3545;
+    font-weight: bold;
+}
+
+.mag-medium {
+    color: #fd7e14;
+    font-weight: bold;
+}
+
+.btn {
+    transition: all 0.2s;
+}
+
+.btn:hover {
+    transform: translateY(-2px);
+}
+
+#resultCount {
+    font-size: 1.1rem;
+}
+
+.table-responsive {
+    max-height: 650px;
+    overflow-y: auto;
+}
