@@ -26,12 +26,12 @@ src/main/java/org/example/earthquakeapp
 ```
 ---
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 
 ### 1. Clone repository
 
 ```bash
-git clone https://github.com/your-username/earthquake-app.git
+git clone https://github.com/JanaAngjelkoska/EarthquakeApp.git
 cd earthquake-app
 ```
 
